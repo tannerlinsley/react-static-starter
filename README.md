@@ -1,20 +1,20 @@
-# [React-Static](https://github.com/nozzle/react-static) - Basic Example
-
-## Deploy to Netlify
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/tannerlinsley/react-static-starter)
-
-## Documentation
-Visit the  [React-Static Github Repo](https://github.com/nozzle/react-static)!
+# React-Static Starter
 
 ## Introduction
-This example is the most basic version of react-static available. It includes:
+This repo is a ready-to-deploy mirror of React-Static's `basic` example template. It includes:
 - Babel
 - CSS imports
 - Image imports
 - File imports
 - Automatic Routing
 
-## To Get Started
+## One-click Deployments
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/tannerlinsley/react-static-starter)
+
+## React-Static Documentation
+Visit the  [React-Static Github Repo](https://github.com/nozzle/react-static)!
+
+## Quick Start
 
 1. Install dependencies: `yarn` or `npm install`
 2. Start the dev server: `yarn start` or `npm run start`
