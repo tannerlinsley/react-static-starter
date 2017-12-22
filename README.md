@@ -1,6 +1,10 @@
 # [React-Static](https://github.com/nozzle/react-static) - Basic Example
 
-Looking for the docs? Visit the  [React-Static Github Repo](https://github.com/nozzle/react-static)!
+## Deploy to Netlify
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/tannerlinsley/react-static-starter)
+
+## Documentation
+Visit the  [React-Static Github Repo](https://github.com/nozzle/react-static)!
 
 ## Introduction
 This example is the most basic version of react-static available. It includes:
