@@ -1,6 +1,5 @@
 # React-Static Starter
 
-## Introduction
 This repo is a ready-to-deploy mirror of React-Static's `basic` example template. It includes:
 - Babel
 - CSS imports
